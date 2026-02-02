@@ -4,10 +4,10 @@ Imagine um restaurante. Existem três figuras: o **Cliente**, o **Garçom** (que
 
 Associe as ações abaixo com **Request (Pedido)** ou **Response (Resposta)**:
 
-1. Você escolhe a pizza e fala para o garçom: ___________
-2. O cozinheiro prepara a pizza e o garçom traz até a sua mesa: ___________
-3. Você pergunta se tem refrigerante gelado: ___________
-4. O garçom volta e diz que o refrigerante acabou: ___________
+1. Você escolhe a pizza e fala para o garçom: ____pedido______
+2. O cozinheiro prepara a pizza e o garçom traz até a sua mesa: _____resposta______
+3. Você pergunta se tem refrigerante gelado: _______pedido____
+4. O garçom volta e diz que o refrigerante acabou: ______resposta_____
 
 ---
 
@@ -18,7 +18,7 @@ Na arquitetura Cliente/Servidor, os dados ficam guardados no Servidor. Pense no 
 1. Se você desinstalar o Instagram do seu celular e instalar em um celular novo, suas fotos somem ou continuam lá?
 2. **Por que isso acontece?**
 * (A) Porque as fotos ficam guardadas no seu celular (Cliente).
-* (B) Porque as fotos ficam guardadas nos computadores do Instagram (Servidor).
+* (B) **Porque as fotos ficam guardadas nos computadores do Instagram (Servidor).**
 
 
 
@@ -40,5 +40,5 @@ Pense no seu script da **Calculadora em Node.js**:
 
 ### Resumo Visual para fixar:
 
-* **Cliente:** É o "curioso", ele sempre pergunta ou pede algo. (Ex: Seu celular, seu navegador).
-* **Servidor:** É o "sabe-tudo", ele guarda a informação e trabalha quando é chamado. (Ex: Google, Netflix, Banco de Dados).
+* **Cliente:** **É o "curioso", ele sempre pergunta ou pede algo. (Ex: Seu celular, seu navegador**).
+* **Servidor:** **É o "sabe-tudo", ele guarda a informação e trabalha quando é chamado. (Ex: Google, Netflix, Banco de Dados)**.
